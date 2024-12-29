@@ -1,1 +1,3 @@
-This is testing for a man made conflict!
+# References
+
+* octocat 1 😈
